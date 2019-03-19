@@ -1,0 +1,7 @@
+.false {
+    border: 1px solid green
+}
+
+.true {
+    border: 1px dashed red
+}
